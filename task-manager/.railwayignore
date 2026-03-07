@@ -1,0 +1,5 @@
+tests/
+locustfile.py
+__pycache__/
+*.pyc
+.env
